@@ -1,4 +1,4 @@
-# KrakenTest
+# AdamTest
 
 This Python collection will establish a DASH stake against your Fireblocks wallet.
 It was authored by a dunce, and under no circumstances should it be executed against any real asset.
